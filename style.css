@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+table {
+    margin: auto;
+}
+td {
+    padding: 0 1rem;
+}
+img {
+    border-radius: 50%;
+}
+ h1, h2 {
+    color: darkgray;
+}
+hr {
+    border: none;
+    border-top: 5px dotted darkgray;
+    margin: 3rem auto;
+    width: 5rem;
+}
+.header {
+    background-color: black;
+    padding: 2rem;
+}
+.header p {
+    width: 15rem;
+    color: aliceblue;
+}
+.main {
+    background-color: aliceblue;
+    padding: 1px 0;
+}
+.main, footer {
+    text-align: center;
+}
